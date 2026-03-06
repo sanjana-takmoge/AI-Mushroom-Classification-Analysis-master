@@ -8,40 +8,59 @@
 ## **Features**
 
 1.Deep Learning based image classification
+
 2.Transfer Learning using InceptionV3
+
 3.Web interface using Flask
+
 4.Image upload and prediction system
+
 5.User-friendly interface
+
 6.Fast and accurate prediction
 
 ## **Technologies Used**
 
 -Python
+
 -TensorFlow / Keras
+
 -Deep Learning (Transfer Learning)
+
 -InceptionV3 Model
+
 -Flask
+
 -HTML
+
 -CSS
+
 -JavaScript
 
 ## **How It Works**
 
 1.User uploads a mushroom image.
+
 2.The image is processed and passed to the trained deep learning model.
+
 3.The model analyzes the visual features.
+
 4.The system predicts the mushroom category.
 
 ## **Model Performance**
 
 Training Accuracy: 83.42%
+
 Validation Accuracy: 88.36%
 
 ## **Future Scope**
 
 -Add more mushroom species
+
 -Develop a mobile application
+
 -Implement real-time camera detection
+
 -Improve model accuracy with larger datasets
 
 ## **Conclusion**
